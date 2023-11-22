@@ -1,3 +1,7 @@
 .SingleDatePickerInput__withBorder {
    border: none!important;
 }
+
+.DateInput {
+   width: 100%!important;
+}
