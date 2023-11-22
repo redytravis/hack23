@@ -243,7 +243,7 @@ input[type="url"],
 input[type="password"],
 textarea,
 select {
-  height: 38px;
+  height: 50px;
   padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
   background-color: #fff;
   border: 1px solid #D1D1D1;
@@ -411,5 +411,4 @@ there.
 @media (min-width: 1000px) {}
 
 /* Larger than Desktop HD */
-@media (min-width: 1200px) {}</pre></div>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+@media (min-width: 1200px) {}
