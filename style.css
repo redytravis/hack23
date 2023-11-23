@@ -32,6 +32,6 @@
    padding: 30px;
 }
 
-input:focus, input:focus > .Select-control:focus, .Select-input:focus {
+input:focus, .Select-control < input:focus, .Select-input:focus {
    border-color: #047FF3;
 }
