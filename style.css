@@ -32,6 +32,6 @@
    padding: 30px;
 }
 
-input:focus, .Select.is-focused {
+input:focus, .Select.is-focused .Select-control {
    border-color: #047FF3;
 }
