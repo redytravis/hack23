@@ -26,6 +26,10 @@
    width: 100%;
 }
 
+#last_web_activity_date {
+   width: 100%;
+}
+
 #formMain {
    background: #F5F5F5;
    border-radius: 10px;
