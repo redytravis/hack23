@@ -44,3 +44,7 @@ label, input, .Select-value, .Select-placeholder, .DateInput_input {
 .DateInput_input {
    color: #000;
 }
+
+#coefficients-fig {
+   margin-top: 30px;
+}
