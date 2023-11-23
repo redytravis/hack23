@@ -6,7 +6,19 @@
    width: 100%;
 }
 
-#lastso_date, .SingleDatePicker, .SingleDatePickerInput, .DateInput {
+#lastso_date {
+   width: 100%;
+}
+
+.SingleDatePicker {
+   width: 100%;
+}
+
+.SingleDatePickerInput {
+   width: 100%;
+}
+
+.DateInput {
    width: 100%;
 }
 
