@@ -6,6 +6,10 @@
    width: 100%;
 }
 
-#lastso_date, #last_call_date {
+#lastso_date {
+   width: 100%;
+}
+
+#last_call_date {
    width: 100%;
 }
