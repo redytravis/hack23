@@ -36,3 +36,7 @@ input:focus, .Select.is-focused .Select-control {
    border-color: #047FF3!important;
    box-shadow: none;
 }
+
+label, input, .Select-value, .Select-placeholder {
+   font-size: 12px;
+}
