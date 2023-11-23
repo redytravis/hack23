@@ -25,3 +25,8 @@
 #last_call_date {
    width: 100%;
 }
+
+#formMain {
+   background: #FCFCFC;
+   border-radius: 6px;
+}
