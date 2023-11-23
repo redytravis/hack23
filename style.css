@@ -33,5 +33,6 @@
 }
 
 input:focus, .Select.is-focused .Select-control {
-   border-color: #047FF3;
+   border-color: #047FF3!important;
+   box-shadow: none;
 }
