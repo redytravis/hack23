@@ -1,3 +1,7 @@
+@media (max-width: 1190px) {
+   max-width: 100%!important;
+}
+
 .SingleDatePickerInput__withBorder {
    border: none;
 }
